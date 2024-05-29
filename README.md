@@ -1,5 +1,5 @@
 # 🖖Hi, I'm Yaroslav.
-But you can call me Yar, as it can be challenging for people to pronounce the full one 🫠
+But you can call me **Yar**, as it can be challenging for people to pronounce the full one 🫠
 
 ---
 
@@ -16,11 +16,12 @@ But you can call me Yar, as it can be challenging for people to pronounce the fu
 ---
 
 ## 📫 How to reach me:
-<div>
-  <a href="https://www.linkedin.com/in/yaroslav-pelykh/" target="_blank" rel="noreferrer noopener">LinkedIn</a> •
-  <a href="https://wa.me/19546687298" target="_blank" rel="noreferrer noopener">WhatsApp</a> •
-  <a href="mailto:y.pelykh@gmail.com">Email</a>  
-</div>
+
+  <a href="https://www.linkedin.com/in/yaroslav-pelykh/" target="_blank" rel="noreferrer noopener">LinkedIn</a>
+  <span> • </span>
+  <a href="https://wa.me/19546687298" target="_blank" rel="noreferrer noopener">WhatsApp</a>
+  <span> • </span>
+  <a href="mailto:y.pelykh@gmail.com">Email</a>
 
 ---
 
