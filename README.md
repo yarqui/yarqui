@@ -1,17 +1,17 @@
-# 🖖Hi, I'm Yaroslav.
-But you can call me **Yar**, as it can be challenging for people to pronounce the full one 🫠
+# 🖖Hey there! I'm Yaroslav.
+But let's keep it simple — just call me Yar. Trust me, your tongue will thank you! 🫠
 
 ---
 
-- 🧑‍💻 I'm a **Software Engineer** with **+5 years** of experience.
+- 🧑‍💻 I'm a **Software Engineer** with **5+ years** in the game.
 
-- 🔨 Main tech stack: **[ Javascript, Typescript, React, Node, ...andManyMore ]**.
+- 🔨 Core tech stack: **[ Javascript, Typescript, React, Node, ...andManyMore ]**.
 
-- 🎓 Pursuing a **master’s degree in Computer Science**.
+- 🎓 Coding my way through **master’s in Computer Science**.
 
 - 💪 I excel in optimizing code performance, creating robust server-side applications, and enhancing user engagement through innovative UI/UX design.
 
-- 👾 I am a creative problem-solver passionate about delivering high-quality, scalable solutions.
+- 👾 I am a creative problem solver with a passion for translating business needs into high quality, scalable solutions.
 
 ---
 
