@@ -7,7 +7,7 @@ But let's keep it simple — just call me Yar. Trust me, your tongue will thank 
 
 - 🔨 Core tech stack: **[ Javascript, Typescript, React, Node, ...andManyMore ]**.
 
-- 🎓 Coding my way through **master’s in Computer Science**.
+- 🎓 Coding my way through **master’s in Computer Science (part-time, remote)**.
 
 - 💪 I excel in optimizing code performance, creating robust server-side applications, and enhancing user engagement through innovative UI/UX design.
 
