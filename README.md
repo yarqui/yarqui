@@ -5,7 +5,7 @@ But let's keep it simple — just call me Yar. Trust me, your tongue will thank 
 
 - 🧑‍💻 I'm a **Software Engineer** with **5+ years** in the game.
 
-- 🔨 Core tech stack: **[ Javascript, Typescript, React, Node, Python ...andManyMore ]**.
+- 🔨 Core tech stack: **[ Javascript, Typescript, React, Node, Python, AWS ...andManyMore ]**.
 
 - 🎓 Coding my way through **master’s in Computer Science (part-time, remote)**.
 
